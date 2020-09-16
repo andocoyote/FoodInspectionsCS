@@ -1,0 +1,5 @@
+# Visual Studio build stuff
+.vs/
+FoodInspectionsCS/bin/
+FoodInspectionsCS/obj/
+packages/
